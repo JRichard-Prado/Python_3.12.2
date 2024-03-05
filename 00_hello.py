@@ -6,8 +6,8 @@ print ("hola Python 3.12.2")
 en varias lineas
 """
 
-print('hola python') #string en comillas simples
-print(''' hola tres comillas''') #estring en comillas triples
+print('hola python') #String en comillas simples
+print(''' hola tres comillas''') #String en comillas triples
 print(type("hola type")) # devuelve el tipo de la variable
 print(type(True))
 print(type({1.2, 1.2, "sdf "}))
