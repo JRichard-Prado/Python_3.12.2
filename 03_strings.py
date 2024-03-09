@@ -9,7 +9,7 @@ print(primer_string +"\t"+ seg_string)  #concatenacion
 print("este es {} \t este el {}".format(primer_string,seg_string))
 print(2*f"este es :{primer_string} \neste el: {seg_string}\n") #formateo con salto de linea
 
-#desempaquetado 
+#desempaquetado  de la cadena String
 a,s,d,f,q,w = primer_string
 print(a, end="")
 print(s, end="")
