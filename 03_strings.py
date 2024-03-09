@@ -1,4 +1,4 @@
-# cosntructor estring 
+# cosntructor String 
 
 primer_string = "string"
 seg_string = "segundo string"
