@@ -2,7 +2,7 @@
 
 nom_hijo = "juan Pablo" #convencion de nombre de variable snek_keys
 nom_papa = "Juan Richard"
-edad_hijo = 5
+edad_hijo = 5  # tipado Dinamico puede contener cualquier tipo de valor
 edad_papa=43
 sexo = "masculino"
 
