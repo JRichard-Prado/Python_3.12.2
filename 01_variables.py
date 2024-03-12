@@ -1,3 +1,5 @@
+#------------ Tipos Variables Pyhton---------------
+
 nom_hijo = "juan Pablo" #convencion de nombre de variable snek_keys
 nom_papa = "Juan Richard"
 edad_hijo = 5
