@@ -12,7 +12,7 @@ sexo = "masculino"
 # tipo de datos int definidos en una sola linea
 year,dia, edad_papa,temperatura, angulo = 2024,7,43, 16, 45
 
-#tipo dato float
+#Tipo dato float
 pi =3.1416
 estatura= 1.65
 peso=65.4
