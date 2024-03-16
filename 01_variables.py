@@ -18,7 +18,7 @@ estatura= 1.65
 peso=65.4
 temperatura= 35.6
 distancia_linea1 =26.5
-#tipo datos boolean
+#Tipo datos boolean
 esta_frio = True
 es_alto = False
 #listas o datos compuestos
