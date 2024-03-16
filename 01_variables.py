@@ -9,7 +9,7 @@ edad_hijo = 5  # tipado Dinamico puede contener cualquier tipo de valor
 edad_papa = 43
 sexo = "masculino"
 
-# tipo de datos definidos en una sola linea
+# tipo de datos int definidos en una sola linea
 year,dia, edad_papa,temperatura, angulo = 2024,7,43, 16, 45
 
 #tipo dato float
