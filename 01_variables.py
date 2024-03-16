@@ -1,5 +1,8 @@
 #------------ Tipos Variables Python 3---------------
-
+'''
+Las variables en Python se pueden crear asignando un valor 
+a un nombre sin necesidad de declararla antes.
+'''
 nom_hijo = "juan Pablo" #convencion de nombre de variable snek_keys
 nom_papa = "Juan Richard"
 edad_hijo = 5  # tipado Dinamico puede contener cualquier tipo de valor
@@ -19,8 +22,8 @@ distancia_linea1 =26.5
 esta_frio = True
 es_alto = False
 #listas o datos compuestos
-equares_lista =[1**2,2**2,3**2,4**2,5**2,6**2]
-cubes =[1**3,4**3,3**3]
+equares_lista =[1**2,2**2,3**2,4**2,5**2,6**2] # exponentes al cuadrado
+cubes =[1**3,4**3,3**3] #exponentes al cubo
 
 #input ingresar por consola teclado
 #papa, mama, hijo, añospablo =input( "nombre papa"), input("nombre mama"), input("Juan Pablo??"), 5
