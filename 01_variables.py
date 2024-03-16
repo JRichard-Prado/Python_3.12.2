@@ -1,15 +1,15 @@
-#------------ Tipos Variables Pyhton---------------
+#------------ Tipos Variables Python 3---------------
 
 nom_hijo = "juan Pablo" #convencion de nombre de variable snek_keys
 nom_papa = "Juan Richard"
 edad_hijo = 5  # tipado Dinamico puede contener cualquier tipo de valor
-edad_papa=43
+edad_papa = 43
 sexo = "masculino"
 
-# tipo de datos enteros definidos en una sola linea
+# tipo de datos definidos en una sola linea
 year,dia, edad_papa,temperatura, angulo = 2024,7,43, 16, 45
 
-#tipo dato floatttt
+#tipo dato float
 pi =3.1416
 estatura= 1.65
 peso=65.4
