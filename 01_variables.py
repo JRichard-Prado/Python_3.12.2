@@ -21,7 +21,7 @@ distancia_linea1 =26.5
 #Tipo datos boolean
 esta_frio = True
 es_alto = False
-#listas o datos compuestos
+#Listas o datos compuestos
 equares_lista =[1**2,2**2,3**2,4**2,5**2,6**2] # exponentes al cuadrado
 cubes =[1**3,4**3,3**3] #exponentes al cubo
 
