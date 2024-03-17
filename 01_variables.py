@@ -32,7 +32,7 @@ cubes =[1**3,4**3,3**3] #exponentes al cubo
 cual es la suma de las edades de papa y el hijo??
 comentarios en varias lineas
 """
-#print(len(nom_hijo))
+
 """
 edad_hijo=int(input("ingresar edad de hijo"))
 edad_papa=int(input("ingesar edad papa"))"""
