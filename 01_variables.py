@@ -33,10 +33,6 @@ cual es la suma de las edades de papa y el hijo??
 comentarios en varias lineas
 """
 
-"""
-edad_hijo=int(input("ingresar edad de hijo"))
-edad_papa=int(input("ingesar edad papa"))"""
-
 print( f"la edad de {nom_hijo[0:5]} es {edad_hijo} \ny la edad de {nom_papa} es {edad_papa} \ny la suma de las edades es {edad_hijo + edad_papa} ",)
 print( rf"la edad de {nom_hijo} es {edad_hijo} \ny la edad de {nom_papa} es {edad_papa} \ny la suma de las edades es {edad_hijo + edad_papa} ",)
 #concatenacion de variables en un print
